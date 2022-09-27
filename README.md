@@ -13,3 +13,5 @@ Django project inspired by three books:
 * Architecture Pattern with Python
 * Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 
 
+## Frontend
+
